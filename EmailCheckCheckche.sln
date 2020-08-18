@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailCheckCheckche", "EmailCheckCheckche\EmailCheckCheckche.csproj", "{A259AD25-05F9-4A47-BF0E-59FCA4C6A793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailCheckCheckChe.Core", "EmailCheckCheckChe.Core\EmailCheckCheckChe.Core.csproj", "{D8787B29-A238-46C0-BCD7-10ACE369E634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A259AD25-05F9-4A47-BF0E-59FCA4C6A793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A259AD25-05F9-4A47-BF0E-59FCA4C6A793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A259AD25-05F9-4A47-BF0E-59FCA4C6A793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A259AD25-05F9-4A47-BF0E-59FCA4C6A793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8787B29-A238-46C0-BCD7-10ACE369E634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8787B29-A238-46C0-BCD7-10ACE369E634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8787B29-A238-46C0-BCD7-10ACE369E634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8787B29-A238-46C0-BCD7-10ACE369E634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEFB807D-303B-4C81-A405-9588232255E5}
+	EndGlobalSection
+EndGlobal
