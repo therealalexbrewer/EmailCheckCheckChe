@@ -1,4 +1,5 @@
 # EmailCheckCheckChe
+### A simple Natural Language Processing Program
 
 ## Purpose
 
